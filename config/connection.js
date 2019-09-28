@@ -10,11 +10,11 @@ var mysql = require("mysql");
 // });
 
 var connection = mysql.createConnection({
-  host: "l3855uft9zao23e2.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+  host: "v02yrnuhptcod7dk.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
   port: 3306,
-  user: "ylvmlgqp58fwvb5i",
-  password: "rl7q933m0eg53rjy",
-  database: "a53lhvdtnxjq9lqw"
+  user: "gu3cos49osnbvmru",
+  password: "cjebxldmg14d6ppn",
+  database: "nayqinjgbpanq4qy"
 });
 
 // Make connection.
