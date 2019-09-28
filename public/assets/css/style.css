@@ -1,0 +1,33 @@
+body {
+  
+  text-align: center;
+  background-color: rgb(154, 236, 78);
+  font-size: 3ch;
+}
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #da9e3d;
+}
+
+.label {
+  font-weight: bold;
+}
+
+button {
+  padding: 10px;
+  color: black;
+  background-color: #dfd9d0;
+}
+
+.form-group {
+  margin: 5px;
+}
+.picture {
+height: 200px;
+width: 270px;
+
+ }
+ .submit-button {
+   margin-top: 15px;
+ }
